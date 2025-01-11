@@ -35,7 +35,7 @@ To install the required libraries, run:
 pip install -r requirements.txt
 python src/main.py
 
-```bash
+#example output
 Accuracy: 0.85
 Confusion Matrix:
 [[200  50]
