@@ -1,9 +1,5 @@
 # Dimesion_reduction-using-K-means-clustering-for-human-activity
 
-
-
-Human Activity Recognition using Smartphones with Dimension Reduction
-
 This project implements Human Activity Recognition (HAR) using sensor data from smartphones. The data is processed, reduced in dimensionality using K-means clustering, and then used for classification with Gaussian Naive Bayes.
 
 ## Overview
