@@ -1,10 +1,14 @@
 # Dimesion_reduction-using-K-means-clustering-for-human-activity
 
-# Human Activity Recognition using Smartphones with Dimension Reduction
+
+
+Human Activity Recognition using Smartphones with Dimension Reduction
 
 This project implements Human Activity Recognition (HAR) using sensor data from smartphones. The data is processed, reduced in dimensionality using K-means clustering, and then used for classification with Gaussian Naive Bayes.
 
 ## Overview
+
+Human Activity Recognition using Smartphones with Dimension Reduction
 
 The goal of this project is to predict human activity based on sensor data from smartphones. We start by preprocessing the data, including feature scaling and dimensionality reduction. After that, we perform classification using the Gaussian Naive Bayes model. We also evaluate the model’s accuracy and performance using a confusion matrix.
 
